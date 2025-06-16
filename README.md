@@ -26,7 +26,7 @@ Biscurim
 OS: Windows 10 x64
 Shell: Windows Terminal
 Pronouns: Samuel Steles
-Location: Brasil, SP
+Location: EUA, us
 Skills: Lua, JavaScript, HTML, CSS
 Currently learning: Phyton, C#, C++
 Hobbies: Cheating, Sleep, Programming
