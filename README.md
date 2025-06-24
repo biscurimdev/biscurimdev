@@ -3,8 +3,8 @@
 </p>
 <br>
 <a href="https://github.com/SamuelSteles">
-    <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/>
-    <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Eae%2C+blz?%3F+Me+chamo+Biscurim!;Seja+bem-vindo(a)+ao+meu+perfil."/>
+    <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/></a>
+    <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Eae%2C+blz?%3F+Me+chamo+Biscurim!;Seja+bem-vindo(a)+ao+meu+perfil."/></a>
 </a>
 <br>
 <p align="center">
@@ -36,7 +36,7 @@ Hobbies: Cheating, Sleep, Programming
 
 <br>
 <p align="center">
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=SamuelSteles&style=for-the-badge&label=Views:&color=gray"/></a>
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=SamuelSteles&style=for-the-badge&label=Views%3A+230930&color=gray"/></a>
     <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/SamuelSteles?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
 </p>
 <a href="#">
