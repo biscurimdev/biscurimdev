@@ -36,7 +36,7 @@ Hobbies: Cheating, Sleep, Programming
 
 <br>
 <p align="center">
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=SamuelSteles&style=for-the-badge&label=Views%3A+230930&color=gray"/></a>
+    <a href="#"><img src="&style=for-the-badge&label=Views%3A+230,930&color=gray"/></a>
     <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/SamuelSteles?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
 </p>
 <a href="#">
