@@ -4,7 +4,7 @@
 <br>
 <a href="https://github.com/SamuelSteles">
     <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/></a>
-    <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Eae%2C+blz?%3F+Me+chamo+Biscurim!;Seja+bem-vindo(a)+ao+meu+perfil."/></a>
+    <a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Hey%2C+beauty?%3F+my+name+is+Biscurim!;Welcome+to+my+profile."/></a>
 </a>
 <br>
 <p align="center">
